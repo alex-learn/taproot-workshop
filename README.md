@@ -1,7 +1,7 @@
 # taproot-workshop
 
 This repo contains the Jupyter notebooks for Optech's [Schnorr/Taproot
-workshops](https://bitcoinops.org/workshops/#taproot-workshop).
+workshops](./docs/taproot-workshop.pdf).
 
 ## Introduction
 
@@ -86,7 +86,9 @@ This section lists the necessary steps and requirements.
 #### Clone this (bitcoinops/taproot-workshop) repository
 
 ```
-$ git clone https://github.com/bitcoinops/taproot-workshop.git
+  #git clone https://github.com/bitcoinops/taproot-workshop.git
+  #
+  git clone https://github.com/alex-learn/taproot-workshop.git
 ```
 
 #### Build a taproot-supporting bitcoind
