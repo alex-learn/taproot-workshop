@@ -86,8 +86,6 @@ This section lists the necessary steps and requirements.
 #### Clone this (bitcoinops/taproot-workshop) repository
 
 ```
-  #git clone https://github.com/bitcoinops/taproot-workshop.git
-  #
   git clone https://github.com/alex-learn/taproot-workshop.git
 ```
 
